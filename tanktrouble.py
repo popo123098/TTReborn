@@ -3,7 +3,7 @@ import sys
 import os
 from pygame import Vector2
 
-
+# added this comment
 RESOLUTION = (800, 600)
 
 display_surface = pygame.display.set_mode(RESOLUTION)
